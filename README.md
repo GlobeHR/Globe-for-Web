@@ -1,5 +1,5 @@
 > [!WARNING]  
-> **You are responsible for the security of your host.** Internal Group and Globe Contributors do not accept any responsibility for compromised data. The SQL database is fully self-hosted on your end.
+> **You are responsible for the security of your host.** Internal Group and Globe Contributors do not accept any responsibility for compromised data. The SQL database is fully self-hosted on your end. We have implemented asymetrical encryption into our service.
 
 # 🌍 Globe for Web
 
