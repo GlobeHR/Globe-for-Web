@@ -10,5 +10,12 @@
         "strict": true,
         "skipLibCheck": true
     },
-    "include": ["src/**/*"]
+    "include": [
+        "./src/**/*",
+        "./src/**/*.{ts,tsx,js,jsx}"
+    ],
+    "exclude": [
+        "dist",
+        "node_modules"
+    ]
 }
