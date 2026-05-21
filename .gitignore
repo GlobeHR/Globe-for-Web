@@ -1,0 +1,25 @@
+# Secrets & Env Variables
+.env
+.env.local
+.env.development.local
+
+# Dependency Folders
+node_modules/
+jspm_packages/
+
+# Debug Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Build/Production Outputs
+dist/
+build/
+.next/
