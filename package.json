@@ -1,0 +1,31 @@
+{
+    "name": "globe-for-web",
+    "version": "0.1.0-alpha",
+    "description": "An open-source, community-made HR platform for Roblox communities",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node --watch src/server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "roblox",
+        "hr-platform",
+        "roblox-api",
+        "open-source",
+        "express",
+        "modular"
+    ],
+    "author": "Internal Group & GlobeHR Community",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "noblox.js": "^5.4.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
