@@ -9,7 +9,7 @@ Managing a massive Roblox group, military simulator, or roleplay community shoul
 ## 🛠️ Project Status: In Development
 
 ![Project Status](https://img.shields.io/badge/status-active_development-orange?style=for-the-badge&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/GlobeHR/Globe-for-Web?style=for-the-badge&label=latest%20commit&color=brightgreen)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/GlobeHR/Globe-for-Web?style=for-the-badge&label=version&color=brightgreen)
 ![GitHub License](https://img.shields.io/github/license/GlobeHR/Globe-for-Web?style=for-the-badge&color=blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/GlobeHR/Globe-for-Web?style=for-the-badge&color=green)
 ![Discord](https://img.shields.io/discord/1024581026225328189?style=for-the-badge&logo=discord&label=community&color=7289DA)
