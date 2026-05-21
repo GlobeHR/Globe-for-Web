@@ -1,0 +1,1 @@
+console.log("Ansify pyton module converted into TS")
