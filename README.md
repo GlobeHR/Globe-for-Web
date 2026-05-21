@@ -9,9 +9,10 @@ Managing a massive Roblox group, military simulator, or roleplay community shoul
 ## 🛠️ Project Status: In Development
 
 ![Project Status](https://img.shields.io/badge/status-active_development-orange?style=for-the-badge&logo=github)
-![GitHub License](https://img.shields.io/github/license/yourusername/globe-web?style=for-the-badge&color=blue)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/globe-web?style=for-the-badge&color=green)
-![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&label=community&color=7289DA)
+![GitHub last commit](https://img.shields.io/github/last-commit/GlobeHR/Globe-for-Web?style=for-the-badge&label=latest%20commit&color=brightgreen)
+![GitHub License](https://img.shields.io/github/license/GlobeHR/Globe-for-Web?style=for-the-badge&color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/GlobeHR/Globe-for-Web?style=for-the-badge&color=green)
+![Discord](https://img.shields.io/discord/1024581026225328189?style=for-the-badge&logo=discord&label=community&color=7289DA)
 
 > [!WARNING]
 > **Globe is currently under active development.** Features are being built, APIs might break, and things are changing rapidly. It is not yet recommended for production use, but we'd love for you to help us build it!
@@ -43,5 +44,5 @@ Managing a massive Roblox group, military simulator, or roleplay community shoul
 1. Clone the repository:
    
 ```bash
-   git clone [https://github.com/yourusername/globe-web.git](https://github.com/yourusername/globe-web.git)
-   cd globe-web
+   git clone [https://github.com/GlobeHR/Globe-for-Web.git](https://github.com/GlobeHR/Globe-for-Web.git)
+   cd Globe-for-Web
