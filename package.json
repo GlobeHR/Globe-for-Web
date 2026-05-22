@@ -1,6 +1,6 @@
 {
     "name": "globe-for-web",
-    "version": "0.1.2-dev",
+    "version": "0.1.2-alpha",
     "description": "An open-source, community-made HR platform for Roblox communities",
     "main": "src/server.js",
     "type": "module",
