@@ -1,15 +1,13 @@
 > [!WARNING]  
-> **You are responsible for the security of your host.** Internal Group and Globe Contributors do not accept any responsibility for compromised data. The SQL database is fully self-hosted on your end. We have implemented asymetrical encryption into our service.
+> **You are responsible for the security of your host.** Globe & Internal is not responsible for security involving your own self hosted instance.
 
-# 🌍 Globe for Web
+# Globe HR (web)
 
-> **Globe is an open-source, community-made HR platform tailored specifically for Roblox communities.**
+> **Globe is an open-source HR platform designed for Roblox Communities.**
 
-Managing a massive Roblox group, military simulator, or roleplay community shouldn't require a chaotic web of spreadsheets and disconnected Discord bots. Globe brings your human resources, roster management, and community analytics into one sleek, unified web interface.
+Managing a roblox group should be made easier and be automated, with Globe you an do super much to simplify your work, automatic payrolls (based on playing hours / studio hours), automations, and more features to come.
 
 ---
-
-## 🛠️ Project Status: In Development
 
 ![Project Status](https://img.shields.io/badge/status-active_development-orange?style=for-the-badge&logo=github)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/GlobeHR/Globe-for-Web/main?style=for-the-badge&label=version&color=brightgreen)
@@ -18,23 +16,25 @@ Managing a massive Roblox group, military simulator, or roleplay community shoul
 ![Discord](https://img.shields.io/discord/1024581026225328189?style=for-the-badge&logo=discord&label=community&color=7289DA)
 
 > [!WARNING]
-> **Globe is currently under active development.** Features are being built, APIs might break, and things are changing rapidly. It is not yet recommended for production use, but we'd love for you to help us build it!
+> **Globe is currently under active development.** We're still working on everything, which means Globe may be unstable or insecure. We recommend hosting stable versions only.
 
 ---
 
-## ✨ Features (Planned & In Progress)
+## Features (Planned & In Progress)
 
-*   👥 **Unified Rosters:** Keep track of your members, ranks, and divisions automatically synced with Roblox.
-*   📊 **Activity Tracking:** Monitor event attendance, shift logs, and hosting metrics.
-*   🛡️ **Permissions & Hierarchy:** Fine-grained staff roles that mirror your Roblox group's structure.
-*   🔌 **Extensible API:** Built from the ground up to integrate seamlessly with your custom Discord bots and in-game scripts.
-*   🎨 **Beautiful UI:** A modern, accessible, and responsive dashboard designed for both desktop and mobile.
+*   **Automatic Payrolls:** Keep track of in game events or studio creation hours, and automatically pay them based on their hours.
+*   **Activity Tracking:** Monitor event attendance, shift logs, and hosting metrics.
+*   **Mirrored Roles:** Your roles from your Roblox Group are automatically mirrored to Globe, you just need to assign permissions and that's it.
+*   **Extensible API:** Built from the ground up to integrate seamlessly with your custom Discord bots and in-game scripts.
+*   **Beautiful UI:** A modern and simple dashboard designed for anyone, easy navigation and usage.
+*   **Mobile Apps (soon):** Mobile apps for all platforms and for both Cloud Instances and Self Hosted instances.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 *Note: Since the project is in early development, these instructions are for setting up a local development environment.*
+**You are fully responsible for your own self-hosted instance.**
 
 ### Prerequisites
 
